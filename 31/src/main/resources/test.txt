@@ -1,0 +1,5 @@
+open "https://www.google.com/" "4"
+checkLinkPresentByHref "https://www.google.by/webhp?hl=ru"
+checkLinkPresentByName "Google"
+checkPageTitle "Google Search Page"
+checkPageContains "Search page"

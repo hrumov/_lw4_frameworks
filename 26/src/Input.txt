@@ -1,0 +1,23 @@
+open "http://www.tut.by" "4500"
+checkPageTitle "Белорусский портал TUT.BY"
+checkPageContains "Тут"
+checkLinkPresentByName "Красота и медицина"
+checkLinkPresentByName "Минск"
+checkLinkPresentByName "Почта"
+checkLinkPresentByHref "http://afisha.tut.by/"
+checkLinkPresentByHref "http://tvset.tut.by/"
+checkLinkPresentByName "ТВ-гид"
+checkLinkPresentByName "Магазины"
+checkLinkPresentByHref "http://jobs.tut.by/"
+checkLinkPresentByName "Работа"
+opennn "http://www.google.com" "3"
+open "http://www.tut.by" "3500"
+checkPageTitle "Белорусский портал TUT.BY"
+checkPageContains "Тут"
+checkLinkPresentByName "Минск"
+ьрмьомлбомб
+error "alskdfja;"
+help
+checkLinkPresentByName "ТВ-гид" aeg  ag
+checkLinkPresentByHref "http://auto.tut.by/news/offtop/519521.html"
+checkLinkPresentByName "Красота и медицина"

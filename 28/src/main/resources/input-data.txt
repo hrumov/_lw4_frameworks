@@ -1,0 +1,5 @@
+open "http://www.google.com" "3"
+checkLinkPresentByHref "http://www.google.by/intl/be/about.html"
+checkLinkPresentByName "Пашыраны пошук"
+checkPageTitle "Google Search"
+checkPageContains "spacing"

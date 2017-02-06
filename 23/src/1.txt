@@ -1,0 +1,5 @@
+open "http://google.com" "1.5"
+checkLinkPresentByName "Language tools"
+checkPageContains "Search" 
+checkPageTitle "Google" 
+checkLinkPresentByHref "https://photos.google.com"

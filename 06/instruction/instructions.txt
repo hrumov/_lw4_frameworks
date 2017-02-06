@@ -1,0 +1,5 @@
+checkLinkPresentByHref "http://finance.tut.by/"
+open "http://www.tut.by" "3" 
+checkLinkPresentByName "&nbsp;<span class="green">$1.9433</span>"
+checkPageContains "meta property="og:url" content="http://www."
+checkPageTitle "Белорусский портал TUT.BY"

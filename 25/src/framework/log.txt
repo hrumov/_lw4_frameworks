@@ -1,0 +1,21 @@
+! [open "http://m.tut.by" "0.05"] 0,636
++ [checkPageTitle "M.TUT.BY | НОВОСТИ"] 0,004
+! [checkPageTitle "НОВОСТИ"] 0,000
++ [checkPageContains "Жители"] 0,012
+! [checkPageContains "Жителиdsfajkhkl"] 0,004
+! [checkLinkPresentByName "Link Name"] 0,003
++ [checkLinkPresentByName "Коллекция произведений искусства Дэвида Боуи распродана почти за 40 млн евро"] 0,002
+! [checkLinkPres!!!!!!!entByName "Коллекция произведений искусства Дэвида Боуи распродана почти за 40 млн евро"] 0,000
++ [checkLinkPresentByHref "http://m.tut.by/news/society/519512.html"] 0,000
++ [checkLinkPresentByHref "http://m.tut.by/news/world/519681.html"] 0,001
++ [open "http://www.google.com" "2"] 0,759
+! [checkPageContains "Googledsfsd"] 0,026
++ [checkPageContains "Google"] 0,001
++ [checkPageTitle "Google"] 0,000
+! [checkPageTitle "Yandex"] 0,000
+! [checkLinkPresentByName "Коллекция произведений искусства Дэвида Боуи распродана почти за 40 млн евро"] 0,000
+! [checkLinkPresentByHref "http://m.tut.by/news/world/519681.html"] 0,001
+Total tests: 17
+Passed/Failed: 8/9
+Total time: 1,449
+Average time: 0,085

@@ -1,0 +1,9 @@
++ [open "http://www.google.com"] 0.586
++ [checkLinkPresentByHref "href="http://www.google.by/imghp?hl=be&tab=wi"" ] 0.006
+! [checkLinkPresentByName "sdadsada"] 0.0
+! [checkPageTitle "AAAAA"] 0.0
+! [checkPageContains  "DDDDDD"] 0.0
+Total tests: 5
+Passed/Failed: 2/3
+Total time: 0.606
+Average time: 0.012

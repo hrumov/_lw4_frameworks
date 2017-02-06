@@ -1,0 +1,5 @@
+open|http://www.google.com
+checkLinkPresentByHref|href="http://www.google.by/imghp?hl=be&tab=wi"
+checkLinkPresentByName|sdadsada
+checkPageTitle|AAAAA
+checkPageContains|DDDDDD

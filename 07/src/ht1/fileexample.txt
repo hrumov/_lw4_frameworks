@@ -1,0 +1,3 @@
+open "http://www.google.com" "3"
+checkPageTitle "Google Search Page"
+checkPageContains "The best search engine"

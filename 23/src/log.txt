@@ -1,0 +1,9 @@
++ [open "http://google.com" "1.5"] 0.342
++ [checkLinkPresentByName "Language tools"] 0.001
++ [checkPageContains "Search"] 0.0
++ [checkPageTitle "Google"] 0.0
++ [checkLinkPresentByHref "https://photos.google.com"] 0.0
+Total tests: 5
+Passed/Failed: 5/0
+Total time: 0.343
+Average time: 0.069
